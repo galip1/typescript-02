@@ -1,0 +1,11 @@
+"use strict";
+let myname = "victor";
+let meaningOfLife;
+let isLoading;
+let album;
+myname = "jhon";
+meaningOfLife = 45;
+isLoading = true;
+album = true;
+album = 40;
+album = "hello";
