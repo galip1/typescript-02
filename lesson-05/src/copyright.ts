@@ -13,6 +13,7 @@
 //   console.log(thisYear);
 // }
 
+
 //2nd variation
 const year = document.getElementById("year") as HTMLSpanElement;
 const thisYear: string = new Date().getFullYear().toString();
