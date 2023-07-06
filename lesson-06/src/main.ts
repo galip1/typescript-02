@@ -44,7 +44,7 @@ const Sara = new webDev("mac", "sara", "lofi", 25);
 console.log(Sara.getLang());
 // console.log(Sara.age);
 // console.log(Sara.lang);
-/////////////////////////////////////////////
+///////////////////////////////////////////////////////////
 
 interface Musician {
   name: string;
