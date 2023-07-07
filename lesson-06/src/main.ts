@@ -12,9 +12,11 @@ class Coder {
     this.age = age;
     this.lang = lang;
   }
+
   public getAge() {
     return `hello, I'm ${this.age}`;
   }
+
   public getName() {
     if (this.name) `hello, I m ${this.name}`;
     return "no name";
@@ -44,6 +46,7 @@ const Sara = new webDev("mac", "sara", "lofi", 25);
 console.log(Sara.getLang());
 // console.log(Sara.age);
 // console.log(Sara.lang);
+
 ///////////////////////////////////////////////////////////
 
 interface Musician {
